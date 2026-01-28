@@ -52,5 +52,5 @@ Data cleaning is a crucial step in data preprocessing. Proper handling of duplic
 ---
 
 ## 👩‍💻 Author
-**Suchi**  
+**Pooja**  
 *FDE Lab – Experiment 2*
